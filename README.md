@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyanshi Tripathi</h1>
-<h3 align="center">Network Automation Engineer in Hughes Communications India</h3>
+<h3 align="center">Automation Engineer in Hughes Communications India</h3>
 
 - 📫 How to reach me **divyanshitripathi.place@gmail.com**
 - 🔒 Expert in designing secure CI/CD pipelines with Jenkins, Docker, and Kubernetes.
