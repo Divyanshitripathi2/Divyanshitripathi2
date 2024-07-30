@@ -6,7 +6,6 @@
 - ☁️ Proficient in optimizing AWS cloud infrastructure for performance and cost efficiency.
 - 🤖 Experienced in automating deployments using Terraform and Ansible.
 - 🔧 Developed advanced network automation tools improving system reliability and threat detection.
-- Led impactful projects, including a Netflix Clone CI/CD and DevSecOps for OpenAI Chatbot UI.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
